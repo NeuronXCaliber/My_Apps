@@ -1,1 +1,1 @@
-# My_Apps
+Diabetes Prediction APP
